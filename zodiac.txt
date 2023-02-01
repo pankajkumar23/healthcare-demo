@@ -1,0 +1,17 @@
+POST /SQL-Injection%2FPost-Based-SQL-Injection-Variant-3%2F/details.php HTTP/1.1
+Host: 13.126.29.16
+Content-Length: 14
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://13.126.29.16
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Sec-GPC: 1
+Accept-Language: en-US,en
+Referer: http://13.126.29.16/SQL-Injection%2FPost-Based-SQL-Injection-Variant-3%2F/search.php
+Accept-Encoding: gzip, deflate
+Cookie: key=5309E1B3-5CAE-F07E-2F56-05D36925245F; PHPSESSID=jo9bn0t55a1qk26lth4ajr71j0
+Connection: close
+
+sign=Capricorn
